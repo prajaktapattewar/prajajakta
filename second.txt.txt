@@ -1,1 +1,2 @@
 we are learning git today
+todays date is 27/10/23
