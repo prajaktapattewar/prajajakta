@@ -1,1 +1,2 @@
 hello repo
+type1 merge conflict
